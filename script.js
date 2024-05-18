@@ -1,7 +1,4 @@
-const scroll = new LocomotiveScroll({
-  el: document.querySelector('#main'),
-  smooth: true
-});
+
 
 const navMenu = document.getElementById("nav-menu");
 const toggleMenu = document.getElementById("toggle-menu");
